@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.group img {
+  width: 316px;
+  height: 275px;
+  background: var(--5-ad-81550, rgba(90, 216, 21, 0.50));
+  color: black;
+}
